@@ -1,7 +1,7 @@
 #﻿UAS KOMPUTER GRAFIK
 
-Nama : Luzen Aji Budiman
-Nim  : 201011400391
+Nama : Raden azka hermanto
+Nim  : 201011401740
 Kelas: 06TPLE004
 
 Hasil Screenshot "Crop Image"
